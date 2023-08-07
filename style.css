@@ -17,7 +17,6 @@ img{
     margin:60px auto;
 }
 .image1, .image2, .image3, .image4, .image5{
-    border: 1px solid;
     position: relative;
 }
 .image1{
